@@ -1,0 +1,14 @@
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\bin\Debug\MyCinema.exe.config
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\bin\Debug\MyCinema.exe
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\bin\Debug\MyCinema.pdb
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.csprojAssemblyReference.cache
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.Form1.resources
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.cache
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.CoreCompileInputs.cache
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.exe
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.pdb
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.BuyTicket.resources
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\bin\Debug\Cinema.mdf
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\bin\Debug\Cinema_log.ldf
+D:\KPI\TRPZ_c#\TRPZ_Laba6_Cinema\MyCinema\MyCinema\obj\Debug\MyCinema.AdminForm.resources
